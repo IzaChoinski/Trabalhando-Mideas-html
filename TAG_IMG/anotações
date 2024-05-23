@@ -1,0 +1,5 @@
+Essa aula falou sobre, tipos de imagem, jpg, png, svg e gif.
+Falou também sobre, atributos da tag imagem <img title=""/> é um atributos de nomeação da imagem logo que você passa
+o mause por cima, pode se colocar nome, descrição ou alguma chamada do tipo "clique aqui".
+Já o atributo alt="" é para fazer a descrição da imagem semanticamente e também para contribuir com a acessibilidade. 
+ex: alt="imagem cor x, redonda, contendo as litras DIO, logo da marca, tamanho medio"
